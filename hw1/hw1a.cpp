@@ -22,5 +22,5 @@ int main(){
 		cout << number << "  ";
 		count++;
 	}
-	cout << "\nNumber of steps: " << count << "\n";
+	cout << "\nNumber of steps: " << count << "\n";	
 }
